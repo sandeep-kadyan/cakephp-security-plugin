@@ -1,1 +1,1 @@
-# cakephp5-security-plugin
+# cakephp-security-plugin
